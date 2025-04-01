@@ -103,7 +103,7 @@ let
       license = "GPL";
 
       platforms = lib.platforms.linux;
-      maintainers = with lib.maintainers; [ anderspapitto ];
+      maintainers = with lib.maintainers; [];
     };
   };
 in
