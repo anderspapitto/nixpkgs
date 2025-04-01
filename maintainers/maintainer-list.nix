@@ -1489,12 +1489,6 @@
     githubId = 5954806;
     name = "Anderson Torres";
   };
-  anderspapitto = {
-    email = "anderspapitto@gmail.com";
-    github = "anderspapitto";
-    githubId = 1388690;
-    name = "Anders Papitto";
-  };
   andir = {
     email = "andreas@rammhold.de";
     github = "andir";
