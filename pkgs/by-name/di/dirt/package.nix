@@ -47,7 +47,7 @@ stdenv.mkDerivation {
     description = "Unimpressive thingie for playing bits of samples with some level of accuracy";
     homepage = "https://github.com/tidalcycles/Dirt";
     license = licenses.gpl3;
-    maintainers = with maintainers; [ anderspapitto ];
+    maintainers = with maintainers; [];
     platforms = with platforms; linux;
     mainProgram = "dirt";
   };
